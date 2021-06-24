@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TKparadise/ASReport/issues"
   },
-  "homepage": "https://github.com/TKparadise/ASReport#readme"
+  "homepage": "https://github.com/TKparadise/ASReport#readme",
+  "devDependencies": {
+    "electron-builder": "^22.11.7"
+  }
 }

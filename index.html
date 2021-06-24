@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <p>sample</p>
+    <div>
+        <p id="msg">this is sample application!</p>
+        <!-- <button onclick="doAction1();">Click</button> -->
+        <textarea name="" cols="30" rows="10"></textarea>
+    </div>
+</body>
+<script>
+    var counter = 0;
+
+    function doAction1() {
+        let p = document.querySelector("#msg");
+        p.textContent = "count: " + ++counter;
+    }
+</script>
+
+</html>
