@@ -1,0 +1,19 @@
+{
+  "name": "asreport",
+  "version": "1.0.0",
+  "description": "有価証券報告書をパースし見やすく表示する",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TKparadise/ASReport.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TKparadise/ASReport/issues"
+  },
+  "homepage": "https://github.com/TKparadise/ASReport#readme"
+}
